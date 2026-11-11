@@ -1,4 +1,4 @@
-# Activity: Find the Time and Space Complexity
+# Lab 3: Time and Space Complexity Analysis
 
 ## Objective
 

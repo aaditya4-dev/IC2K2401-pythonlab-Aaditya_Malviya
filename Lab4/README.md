@@ -1,5 +1,3 @@
-
-
 # Python Lab Assignment – Algorithm Optimization
 
 ## Overview
